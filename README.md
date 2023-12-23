@@ -38,3 +38,4 @@ La estructura del código sigue la siguiente jerarquía:
 3. Ejecuta la aplicación en un emulador o dispositivo.
 
 
+![Captura de pantalla 2023-12-22 200027](https://github.com/juanpispablo200/tareas-/assets/116582110/4a9267d2-ed86-45da-9220-83704251b8bb)
